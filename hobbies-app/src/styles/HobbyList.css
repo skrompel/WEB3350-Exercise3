@@ -1,0 +1,11 @@
+.hobby-list {
+  list-style: none;
+  padding: 0;
+}
+
+.hobby-list li {
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  background: #e8f0fe;
+  border-radius: 6px;
+}
